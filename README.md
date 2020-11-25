@@ -1,4 +1,4 @@
-# study_project
+# Predicting health status
 Prédiction de l’état de santé d’un individu de 60 ans et plus.
 
 Les bases de données sont des enquêtes sur la santé dans les collectivités canadiennes.  
